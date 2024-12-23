@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1523133328 source:c:\users\thon\desktop\jogo da memória\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1523222662 source:c:\users\thon\desktop\nova pasta\jogo da memória\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+
+1585097938 source:c:\users\welliton\desktop\jogo da memória\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<windows.h>
+	<time.h>
+

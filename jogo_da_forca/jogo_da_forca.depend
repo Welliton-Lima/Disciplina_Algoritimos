@@ -1,7 +1,9 @@
 # depslib dependency file v1.0
-1734969076 source:c:\users\welliton\desktop\jogo_da_forca\jogo_da_forca\main.c
+1734973638 source:c:\users\welliton\desktop\jogo_da_forca\jogo_da_forca\main.c
 	<stdio.h>
 	<stdlib.h>
 	<ctype.h>
-	<unistd.h>
+	<windows.h>
+	<time.h>
+	<string.h>
 

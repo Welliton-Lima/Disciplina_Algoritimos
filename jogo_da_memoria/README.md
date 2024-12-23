@@ -1,6 +1,6 @@
-# Jogo da Memória em C
+# Jogo da Memória em C++
 
-Este projeto é um **jogo da memória** desenvolvido em linguagem C como parte de um aprendizado ou demonstração prática de programação básica e intermediária. O projeto foi desenvolvido e testado no **Code::Blocks**, utilizando o compilador MinGW.
+Este projeto é um **jogo da memória** desenvolvido em linguagem C++ como parte de um aprendizado ou demonstração prática de programação básica e intermediária. O projeto foi desenvolvido e testado no **Code::Blocks**, utilizando o compilador MinGW.
 
 ---
 
